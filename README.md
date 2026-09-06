@@ -22,7 +22,7 @@ Financial Analysis
 📷 Dashboard Preview
 
 Add your dashboard screenshot here:
-![Financial Position Dashboard](financial position dashboard.png)
+![Financial Position Dashboard](financial%20position%20dashboard.png)
 📊 Dashboard Insights
 
 The dashboard helps users analyze:
